@@ -1,0 +1,6 @@
+J:\Projects\WcfCommerce\WcfCommerce\bin\WcfCommerce.dll.config
+J:\Projects\WcfCommerce\WcfCommerce\bin\WcfCommerce.dll
+J:\Projects\WcfCommerce\WcfCommerce\bin\WcfCommerce.pdb
+J:\Projects\WcfCommerce\WcfCommerce\obj\Debug\WcfCommerce.dll
+J:\Projects\WcfCommerce\WcfCommerce\obj\Debug\WcfCommerce.pdb
+J:\Projects\WcfCommerce\WcfCommerce\obj\Debug\WcfCommerce.csprojResolveAssemblyReference.cache
